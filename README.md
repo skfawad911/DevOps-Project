@@ -39,9 +39,17 @@ DevOps Project - Create a Game using Docker and Deploy to AWS
     <ul>
       <li>Create an Elastic Beanstalk environment for Docker.</li>
       <li>Upload your Docker container to Elastic Beanstalk.</li>
+
+  here are the configurations,
+
+  
+  <img src="screenshots/Configure Env..png" alt="Configure Environment">
+    <img src="screenshots/Environment Info.png" alt="Environment Info">
+    <img src="screenshots/Platform.png" alt="Platform">
+    <img src="screenshots/Application code.png" alt="Application code">
+    <img src="screenshots/Presets.png" alt="Presets">
       <li>Configure environment variables, scaling options, and other settings as needed.</li>
     </ul>
   </li>
-  <img src="screenshots/Configure Env.png" alt="Configure Environment">
-
   <li><strong>Access the Game on AWS:</strong> Once the Elastic Beanstalk environment is up and running, access your 2048 game on AWS using the provided URL.</li>
+<img src="screenshots/Game launched.png" alt="Game launched">
