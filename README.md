@@ -1,4 +1,4 @@
-# DevOps-Project
+# Deploying A Gane on AWS
 DevOps Project - Create a Game using Docker and Deploy to AWS
 
 <!-- Project Overview -->
